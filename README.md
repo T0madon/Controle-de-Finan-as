@@ -42,6 +42,6 @@ Contato
 E-mail: joao.daciuk@gmail.com
 LinkedIn: João Vitor Tomadon Daciuk
 
-![image](https://github.com/T0madon/Controle-de-Finan-as/assets/128230606/571d6013-96de-4300-a02b-3658f3ff5f28)
+
 
 
