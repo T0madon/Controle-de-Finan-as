@@ -1,0 +1,29 @@
+{
+  "gastos": [
+    {
+      "name": "Padaria",
+      "value": -50,
+      "id": "fb67"
+    },
+    {
+      "id": "e353",
+      "name": "Mercado",
+      "value": -100
+    },
+    {
+      "name": "Bolsa",
+      "value": 700,
+      "id": "da40"
+    },
+    {
+      "name": "Salário",
+      "value": 2000,
+      "id": "ceb7"
+    },
+    {
+      "id": "8e9e",
+      "name": "Conta de Luz",
+      "value": -100
+    }
+  ]
+}
