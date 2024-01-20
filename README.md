@@ -13,7 +13,7 @@ npm init -y
 npm i json-server
 
 3. Criar um arquivo "db.json" com o seguinte conteúdo:
-```json
+json
 {
   "gastos": [{}]
 }
