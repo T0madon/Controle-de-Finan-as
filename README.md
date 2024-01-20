@@ -39,6 +39,8 @@ Status do Projeto
 Concluído
 
 Contato
+
+![Exemplo de uso do programa]([URL_da_Imagem](https://raw.githubusercontent.com/T0madon/Controle-de-Finan-as/main/Demonstra%C3%A7%C3%A3o.png)https://raw.githubusercontent.com/T0madon/Controle-de-Finan-as/main/Demonstra%C3%A7%C3%A3o.png)
 E-mail: joao.daciuk@gmail.com
 LinkedIn: João Vitor Tomadon Daciuk
 
